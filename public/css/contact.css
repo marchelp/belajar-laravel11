@@ -1,0 +1,11 @@
+.social-media a {
+    text-decoration: none;
+    display: flex;
+    flex-direction: row;
+    margin: 1em;
+}
+
+.social-media a p {
+    color: black;
+    margin-left: .4em;
+}
